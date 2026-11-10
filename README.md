@@ -1,5 +1,5 @@
 
-# Nexa
+# Modern social Media like instagram 
 
 A modern social media platform.
 
