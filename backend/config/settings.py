@@ -48,6 +48,7 @@ CORS_ALLOWED_ORIGINS = env.list(
 )
 
 
+AUTH_USER_MODEL = "accounts.User"
 # Application definition
 
 INSTALLED_APPS = [
